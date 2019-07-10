@@ -1,2 +1,2 @@
-# recommending-meals-for-diabetes-graduation-project-
-Classifier that takes the meals nutrition as an input and returns which of those meals is suitable for a diabetic person.
+# Recommending meals for diabetes (graduation project)
+Classifier that takes the meals nutrition as an input and returns which of those meals is suitable for a diabetic person. **This was the classifier i used in my graduation project as the autonation and classification engine, and we were honored to recievce the best graduation project award from the computer science department in The faculty of computer and information science - Mansoura University**
